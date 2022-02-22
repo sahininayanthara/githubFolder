@@ -1,0 +1,11 @@
+1. Create a github repository.
+2. Go to git folder.
+3. Give Git Bash Here.
+4. git clone https://github.com/sahininayanthara/form_submit_script.git
+5. Next we can see a folder like form_submit_script within the git folder. We should go inside the folder using below command.
+   cd form_submit_script
+   Next, we should need to add files to this folder
+6. git add .
+7. git status
+8. git commit -m "form submit script"
+9. git push -u origin main
